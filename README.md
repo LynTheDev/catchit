@@ -7,6 +7,12 @@ My first ever game!
 
 # Installation:
 
+# Play it at:
+
+https://www.lexaloffle.com/bbs/?pid=124423#p
+
+# Or compile it yourself!
+
 ```bash
 git clone https://github.com/omoNattie/catchit
 
