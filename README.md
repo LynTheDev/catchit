@@ -9,6 +9,12 @@ Since ive never made a game before, don't espect too much qwq
 
 # Installation:
 
+# Play it at:
+
+https://www.lexaloffle.com/bbs/?pid=124423#p
+
+# Or compile it yourself!
+
 ```bash
 git clone https://github.com/omoNattie/catchit
 
