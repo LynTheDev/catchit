@@ -2,6 +2,8 @@
 
 My first ever game!
 
+Since ive never made a game before, don't espect too much qwq
+
 # Game in action:
 ![pico8](./catchit/assets/game.gif)
 
